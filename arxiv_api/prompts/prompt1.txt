@@ -1,0 +1,19 @@
+Answer the following questions based on the content in the paper:
+
+1. **Research Background**: This part outlines under what conditions or needs the research plan was proposed. It delves into the central problem or deficiency the paper aims to address.
+   
+2. **Task Definition**: This section defines the specific task the paper tackles, including the input, the output, and the expected outcomes.
+   
+3. **Shortcomings of Previous Work**: Combining information from the Introduction and Related Work sections, this part highlights the deficiencies in prior research that the current study aims to overcome.
+   
+4. **Improvements and Main Contributions**: This segment, primarily found in the Introduction, discusses the improvements made over previous works and outlines the paper's main contributions.
+   
+5. **Core Method Description**: This includes both a schematic diagram of the overall architecture and a textual description. It explains the main modules, their individual functions or significance, and provides a brief overview of the loss function used.
+   
+6. **Experimental Details**: Details about the datasets used (including a general description of the dataset content such as the number of samples, how training and testing were divided, the types of data modalities present, and other relevant information about the dataset), the backbone, evaluation metrics, and baseline comparisons for the experiments.
+   
+7. **Experimental Results**: Presents a core comprehensive table along with other valuable tables, visualizations, or textual analyses highlighting the study's findings.
+   
+8. **Limitations**: Summarizes the paper's shortcomings. If the paper does not mention any, an attempt is made to identify potential limitations independently.
+   
+9. **Open Source Code**: Indicates whether the paper has associated open-source code and provides a link if available.
